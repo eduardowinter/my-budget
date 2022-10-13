@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website development",
+      "type": "income",
+      "category": "Sales",
+      "value": 12000,
+      "createdAt": "2022-10-13T09:39:38.978Z"
+    },
+    {
+      "id": 2,
+      "description": "Tacos",
+      "type": "outcome",
+      "category": "Food",
+      "value": 39,
+      "createdAt": "2022-10-13T09:30:38.978Z"
+    },
+    {
+      "id": 3,
+      "description": "Online Course",
+      "type": "outcome",
+      "category": "Education",
+      "value": 2180,
+      "createdAt": "2022-10-13T09:25:38.978Z"
+    },
+    {
+      "description": "Mobile app development",
+      "value": 10000,
+      "category": "Sales",
+      "type": "income",
+      "createdAt": "2022-10-13T15:41:53.073Z",
+      "id": 4
+    },
+    {
+      "description": "Banana Pancake",
+      "value": 10,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2022-10-13T16:08:36.310Z",
+      "id": 5
+    },
+    {
+      "description": "Beer",
+      "value": 15,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2022-10-13T16:09:03.119Z",
+      "id": 6
+    }
+  ]
+}
